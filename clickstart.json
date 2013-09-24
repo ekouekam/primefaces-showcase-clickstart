@@ -1,0 +1,21 @@
+{
+    "id": "primefaces-showcase-clickstart",
+    "name": "PrimeFaces Showcase 4.0-SNAPSHOT",
+    "source": "git://github.com/CloudBees-community/primefaces-showcase-clickstart.git",
+    "description" : "PrimeFaces Showcase 4.0-SNAPSHOT Codenamed Sentinel with JSF 2.2",
+    "doc-url" : "https://github.com/CloudBees-community/primefaces-showcase-clickstart/blob/master/README.md",
+    "app-package": "https://repository-community.forge.cloudbees.com/snapshot/org/primefaces/prime-showcase/1.0.0-SNAPSHOT/prime-showcase-1.0.0-20130924.235205-1.war",
+    "icon" : "https://raw.github.com/CloudBees-community/primefaces-showcase-clickstart/master/icon.png",
+
+    "supported-by" : "cloudbees",
+    "order" : 100,
+
+    "runtime": {
+        "type": "tomcat7"
+    },
+    "build-with-jenkins": {
+        "template": {
+            "type": "maven"
+        }
+    }
+}
