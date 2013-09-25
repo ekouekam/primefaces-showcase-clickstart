@@ -1,6 +1,6 @@
 {
     "id": "primefaces-showcase-clickstart",
-    "name": "PrimeFaces Showcase 4.0-SNAPSHOT",
+    "name": "PrimeFaces Showcase",
     "source": "git://github.com/CloudBees-community/primefaces-showcase-clickstart.git",
     "description" : "PrimeFaces Showcase 4.0-SNAPSHOT Codenamed Sentinel with JSF 2.2",
     "doc-url" : "https://github.com/CloudBees-community/primefaces-showcase-clickstart/blob/master/README.md",
