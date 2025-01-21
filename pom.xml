@@ -114,12 +114,12 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
-            <version>3.7</version>
+            <version>3.17</version>
         </dependency>
         <dependency>
             <groupId>com.lowagie</groupId>
             <artifactId>itext</artifactId>
-            <version>2.1.7</version>
+            <version>9.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>bouncycastle</groupId>
@@ -145,19 +145,19 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-validator</artifactId>
-            <version>5.0.1.Final</version>
+            <version>5.1.2.Final</version>
         </dependency>
 
 		<!-- File Upload -->
         <dependency>
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
-            <version>1.2.1</version>
+            <version>1.2.2</version>
         </dependency>
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>1.4</version>
+            <version>2.7</version>
         </dependency>
 
 		<!-- FeedReader and Mobile News -->
@@ -204,7 +204,7 @@
         <dependency>
             <groupId>org.primefaces.themes</groupId>
             <artifactId>all-themes</artifactId>
-            <version>1.0.10</version>
+            <version>8.0</version>
         </dependency>
 
 		<!-- TESTING -->
@@ -223,7 +223,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.8.2</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
         
@@ -288,7 +288,7 @@
                 <dependency>
                     <groupId>org.glassfish</groupId>
                     <artifactId>javax.faces</artifactId>
-                    <version>2.2.1</version>
+                    <version>2.1.28</version>
                 </dependency>
             </dependencies>
         </profile>
