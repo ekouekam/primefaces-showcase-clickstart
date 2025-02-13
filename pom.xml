@@ -119,7 +119,7 @@
         <dependency>
             <groupId>com.lowagie</groupId>
             <artifactId>itext</artifactId>
-            <version>5.0.0</version>
+            <version>5.0.0</version
             <exclusions>
                 <exclusion>
                     <groupId>bouncycastle</groupId>
