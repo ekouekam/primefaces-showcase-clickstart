@@ -314,7 +314,7 @@
                 <dependency>
                     <groupId>org.glassfish</groupId>
                     <artifactId>javax.faces</artifactId>
-                    <version>2.1.26</version>
+                    <version>2.4.0</version>
                 </dependency>
             </dependencies>
         </profile>
@@ -371,7 +371,7 @@
                 <dependency>
                     <groupId>org.glassfish</groupId>
                     <artifactId>javax.faces</artifactId>
-                    <version>2.1.24</version>
+                    <version>2.4.0</version>
                 </dependency>
             </dependencies>
         </profile>
@@ -397,7 +397,7 @@
                 <dependency>
                     <groupId>org.glassfish</groupId>
                     <artifactId>javax.faces</artifactId>
-                    <version>2.1.10</version>
+                    <version>2.4.0</version>
                 </dependency>
             </dependencies>
         </profile>
